@@ -1,3 +1,5 @@
 Hello World
 and Hello Odin!
-testing changes to README.md and then committing without the -m flag
+testing changes to hello_world.txt and then committing WITH the -m flag
+everything worked well
+now testing changes to hello_world.txt and committing WITHOUT the -m flag
